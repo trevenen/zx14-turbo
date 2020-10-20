@@ -81,4 +81,29 @@ To look at the compressure map.
  (26.68 X 10000) / 3456 = 77.19
  (26.68 X 11000) / 3456 = 84.91
  (26.68 X 12000) / 3456 = 92.63
-```
+
+
+2.703 (14.7 psi) VFR in CID / Ambeant Temp + 460 
+
+(2.703 (14.7) (84.91))/ 545 =  6.19 Mass Flow Rate in LBS/MIN for NA ZX14R Engine. 
+
+(Boost  + P Ambient - Press Drop ) / P Ambient = Pressure Ratio Complete System
+
+(8 PSI + 14.7 - 1.5 ) / 14.7 = 1.44 Pressure Ratio of the System
+
+((((85 F + 460) 1.44) - 460) - 85 F / Effiiency of Comp Wheel ) + 85 F = Comp 
+
+((((545) 1.44^0.283) - 460) - 85 / .75 ) + 85 F =  
+
+604.24 - 460 - 85 =  59.24 
+
+59.24 / .75 = 78.98
+
+78.98 F + 85 F = 163.98 F Compressor Temp Out
+ 
+ 
+ 
+ 
+ 
+ ```
+ https://www.youtube.com/watch?v=n4uDszd9UpM
