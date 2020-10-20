@@ -43,7 +43,7 @@ Hurricane 6662
 Code Name Erin	
 
 Target HorsePower 500-600	
-
+T
 Comp. Wheel HP-66	
 
 Comp. Inlet/Outlet 4.0" / 2.5" Ported Shroud	
@@ -57,3 +57,6 @@ A/R  0.82
 
 
 The Hurricane 6662 (Code Name: Erin) is the first turbocharger in our Hurricane series. Our Hurricane Series turbochargers focus on packing our highest flowing compressor and turbine wheels into a compact unit for vehicles with space constraint issues that need big airflow to meet their horespower goals. The 6662 utilizes a 66mm compressor wheel within a traditional 60 series compressor cover. This uniquely packaged compressor configuration is married with the largest T3 turbine available from Turbonetics (F1-62) to provide 500 to 600 HP worth of air and large pressure ratio potential in an extremely flexible package. This turbo is ideal for all out power 4 cylinders and most 6 cylinder and smaller displacement 8 cylinder engines. Available in either a standard beaing or Turbonetics patented ceramic ball bearing configuration.
+
+
+The T-66 included pressure map is moving into the area that if you want to get into the 600 HP level that it is capable of producing your motor is going to probably at least need better pistons at a minimum. Still this turbo looks pretty responsive down at the 8 lbs. of boost so might be one to consider if you are going to do mods to your motor down the road and want a turbo that can keep up with them. Start with one of their smaller turbines and go larger later on the turbine side or if you are staying street get one of the Hurricane Series with the HP-66 Compressor. A little less flow than the T-66 but still should be a very nice turbo in the 500 HP range.
