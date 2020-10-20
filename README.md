@@ -67,7 +67,7 @@ The T-66 included pressure map is moving into the area that if you want to get i
 To look at the compressure map. 
 
 
-
+```
 (4 cylinders x (3.31 in) × (2.56 in) )/ 1.27 in = 26.68 inches cubed 
 
 ( DISP X RPM ) / 3456 = VOLUMETRIC FLOW RATE
@@ -80,4 +80,4 @@ To look at the compressure map.
  (26.68 X 9000) / 3456 = 69.47
  (26.68 X 10000) / 3456 = 77.19
  (26.68 X 11000) / 3456 = 84.91
- (26.68 X 12000) / 3456 = 92.63
+ (26.68 X 12000) / 3456 = 92.63```
