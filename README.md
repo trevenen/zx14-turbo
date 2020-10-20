@@ -4,8 +4,10 @@
 Bore / stroke	84.0 mm × 65.0 mm (3.31 in × 2.56 in)
 Compression ratio	12.0:1
 
-155.0 kW (207.9 hp) (claimed)
+155.0 kW (207.9 hp) (claimed) 113 lbs-ft Torque
 143.0 kW (191.7 hp) (rear wheel)
+
+
 
 60 ft.: 1.713 seconds
 330 ft.: 4.349 seconds
@@ -60,3 +62,22 @@ The Hurricane 6662 (Code Name: Erin) is the first turbocharger in our Hurricane 
 
 
 The T-66 included pressure map is moving into the area that if you want to get into the 600 HP level that it is capable of producing your motor is going to probably at least need better pistons at a minimum. Still this turbo looks pretty responsive down at the 8 lbs. of boost so might be one to consider if you are going to do mods to your motor down the road and want a turbo that can keep up with them. Start with one of their smaller turbines and go larger later on the turbine side or if you are staying street get one of the Hurricane Series with the HP-66 Compressor. A little less flow than the T-66 but still should be a very nice turbo in the 500 HP range.
+
+
+To look at the compressure map. 
+
+
+
+(4 cylinders x (3.31 in) × (2.56 in) )/ 1.27 in = 26.68 inches cubed 
+
+( DISP X RPM ) / 3456 = VOLUMETRIC FLOW RATE
+
+(26.68 X 4000) / 3456 = 30.87
+(26.68 X 5000) / 3456 = 38.59
+(26.68 X 6000) / 3456 = 46.31
+(26.68 X 7000) / 3456 = 54.03
+(26.68 X 800) / 3456 = 61.75
+(26.68 X 9000) / 3456 = 69.47
+(26.68 X 10000) / 3456 = 77.19
+(26.68 X 11000) / 3456 = 84.91
+(26.68 X 12000) / 3456 = 92.63
